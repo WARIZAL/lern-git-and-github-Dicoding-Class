@@ -1,0 +1,4 @@
+List yang di belajaran hari ini :
+
+* git branch(blajar membuat Branch Baru pada github)
+*
